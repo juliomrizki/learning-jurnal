@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test cuy
 test blablabla
 wooyyyyy
+=======
+test cuy
+>>>>>>> parent of cb706b7 (tambah text)
